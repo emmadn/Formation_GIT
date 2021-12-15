@@ -3,3 +3,6 @@ chanson
 Titre + artiste
 
 couplet
+
+refrain
+refrain2
