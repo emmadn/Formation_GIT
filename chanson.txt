@@ -4,4 +4,9 @@ Titre + artiste
 
 couplet
 
+<<<<<<< HEAD
 couplet2
+=======
+refrain
+refrain2
+>>>>>>> main
